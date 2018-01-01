@@ -3,10 +3,11 @@
 Bot for shopping list.
 
 ### How to start 
-Download and run the shoppinList.py
+Download and run the shoppingList.py
 
 ### Notes
 You need to add your own bot token to the script. You can ask @BotFather (Telegram) for it.
+You need to install the requirements.
 
 ### Commands for the Bot
 ```
