@@ -13,8 +13,8 @@ You need to install the requirements.
 ### Commands for the Bot
 ```
 /start - Start.
-/add (items) - Add the item.
-/delete (items) - Delete the item.
+/add (items) - Add the item/items.
+/delete (items) - Delete the item/items.
 /show - Prints your list.
 /deleteall - Delete all the items.
 /toaudio - Creates an audio with the items in your list(also delete the list.).
