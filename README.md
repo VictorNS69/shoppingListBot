@@ -1,6 +1,6 @@
 # Shopping List Bot (Telegram)
 ## [Víctor Nieves Sánchez](https://twitter.com/VictorNS69)
-Bot for shopping list.
+Telegram Bot for a shopping list.
 
 ### How to start 
 Download and run the shoppingList.py
